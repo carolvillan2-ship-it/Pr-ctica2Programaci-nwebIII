@@ -1,0 +1,16 @@
+{
+  "name": "practica-categorias",
+  "version": "1.0.0",
+  "description": "CRUD de categorías con Node.js, Express y MySQL",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.0"
+  }
+}
